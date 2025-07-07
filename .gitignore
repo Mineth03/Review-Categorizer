@@ -1,0 +1,16 @@
+# Ignore dataset files
+data/
+*.csv
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Ignore VS Code settings folder (optional if using personal setup)
+.vscode/
