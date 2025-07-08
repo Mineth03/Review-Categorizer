@@ -2,6 +2,8 @@
 data/
 *.csv
 
+results/
+
 # Ignore Python cache
 __pycache__/
 *.pyc
